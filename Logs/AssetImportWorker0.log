@@ -653,3 +653,4 @@ Received Import Request.
 Start importing Assets/FBXExports/Lobby-binary.fbx using Guid(c17f27528caebb547a51ba99878b33f7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b4e224cfa3bdc1f49bf512f707401a91') in 2.685867 seconds 
   Import took 2.703841 seconds .
 
+AssetImportWorkerClient::OnTransportError - code=2 error=End of file
