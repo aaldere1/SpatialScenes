@@ -1,0 +1,178 @@
+fileFormatVersion: 2
+guid: e2df01569179bc843b10cfb78ff7075e
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: Taulu_Jamster_100x100
+    100002: Taulu_Jamster_100x150_1
+    100004: Taulu_Jamster_100x150_2
+    100006: Taulu_Jamster_140x140
+    100008: Taulu_Jamster_150x100
+    100010: Taulu_Jamster_50x90
+    100012: Taulu_Jamster_59x90_1
+    100014: Taulu_Jamster_59x90_2
+    100016: //RootNode
+    400000: Taulu_Jamster_100x100
+    400002: Taulu_Jamster_100x150_1
+    400004: Taulu_Jamster_100x150_2
+    400006: Taulu_Jamster_140x140
+    400008: Taulu_Jamster_150x100
+    400010: Taulu_Jamster_50x90
+    400012: Taulu_Jamster_59x90_1
+    400014: Taulu_Jamster_59x90_2
+    400016: //RootNode
+    2300000: Taulu_Jamster_100x100
+    2300002: Taulu_Jamster_100x150_1
+    2300004: Taulu_Jamster_100x150_2
+    2300006: Taulu_Jamster_140x140
+    2300008: Taulu_Jamster_150x100
+    2300010: Taulu_Jamster_50x90
+    2300012: Taulu_Jamster_59x90_1
+    2300014: Taulu_Jamster_59x90_2
+    3300000: Taulu_Jamster_100x100
+    3300002: Taulu_Jamster_100x150_1
+    3300004: Taulu_Jamster_100x150_2
+    3300006: Taulu_Jamster_140x140
+    3300008: Taulu_Jamster_150x100
+    3300010: Taulu_Jamster_50x90
+    3300012: Taulu_Jamster_59x90_1
+    3300014: Taulu_Jamster_59x90_2
+    4300000: Taulu_Jamster_140x140
+    4300002: Taulu_Jamster_150x100
+    4300004: Taulu_Jamster_100x150_2
+    4300006: Taulu_Jamster_100x150_1
+    4300008: Taulu_Jamster_100x100
+    4300010: Taulu_Jamster_50x90
+    4300012: Taulu_Jamster_59x90_2
+    4300014: Taulu_Jamster_59x90_1
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Jami_100x100
+    second: {fileID: 2100000, guid: 680263368e0279343a6114c5b5ae536e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Jami_100x150_1
+    second: {fileID: 2100000, guid: a90899f01554d7e4cb76aee7ecd74a65, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Jami_100x150_2
+    second: {fileID: 2100000, guid: a90899f01554d7e4cb76aee7ecd74a65, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Jami_140x140
+    second: {fileID: 2100000, guid: a82c60ac165ff2641be7f6f374574d28, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Jami_150x100
+    second: {fileID: 2100000, guid: 191bf8f710533b6418dd64b9d1913ac1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Jami_50x90
+    second: {fileID: 2100000, guid: d9af3fae2b268454cbc722c2296248cd, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Jami_59x90_1
+    second: {fileID: 2100000, guid: 0c0f9f66378f5854bbe4734c7b7ab026, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Jami_59x90_2
+    second: {fileID: 2100000, guid: 0728660845905bb459e501e8b5662ca7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Painting Back
+    second: {fileID: 2100000, guid: 23ecfd2e036cca242a298cc04a94c176, type: 2}
+  materials:
+    importMaterials: 0
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 1
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 0
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 1
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

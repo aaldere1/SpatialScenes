@@ -1,0 +1,715 @@
+Using pre-set license
+Built from '2020.3/staging' branch; Version is '2020.3.13f1 (71691879b7f5) revision 7432472'; Using compiler version '192528614'; Build Type 'Release'
+OS: 'Windows 10 Pro; OS build 19043.1151; Version 2009; 64bit' Language: 'en' Physical Memory: 32665 MB
+BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1, IsPro: 0
+
+ COMMAND LINE ARGUMENTS:
+C:\Program Files\Unity\Hub\Editor\2020.3.13f1\Editor\Unity.exe
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker0
+-projectPath
+E:/UNITY PROJECTS/SpatialScenes
+-logFile
+Logs/AssetImportWorker0.log
+-srvPort
+58338
+Successfully changed project path to: E:/UNITY PROJECTS/SpatialScenes
+E:/UNITY PROJECTS/SpatialScenes
+Using Asset Import Pipeline V2.
+Refreshing native plugins compatible for Editor in 81.03 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Initialize engine version: 2020.3.13f1 (71691879b7f5)
+[Subsystems] Discovering subsystems at path C:/Program Files/Unity/Hub/Editor/2020.3.13f1/Editor/Data/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path E:/UNITY PROJECTS/SpatialScenes/Assets
+GfxDevice: creating device client; threaded=0
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: NVIDIA GeForce RTX 3080 Laptop GPU (ID=0x249c)
+    Vendor:   
+    VRAM:     16202 MB
+    Driver:   27.21.14.6140
+Initialize mono
+Mono path[0] = 'C:/Program Files/Unity/Hub/Editor/2020.3.13f1/Editor/Data/Managed'
+Mono path[1] = 'C:/Program Files/Unity/Hub/Editor/2020.3.13f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit'
+Mono config path = 'C:/Program Files/Unity/Hub/Editor/2020.3.13f1/Editor/Data/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56276
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: C:/Program Files/Unity/Hub/Editor/2020.3.13f1/Editor/Data/PlaybackEngines/WebGLSupport/UnityEditor.WebGL.Extensions.dll
+Register platform support module: C:/Program Files/Unity/Hub/Editor/2020.3.13f1/Editor/Data/PlaybackEngines/MacStandaloneSupport/UnityEditor.OSXStandalone.Extensions.dll
+Register platform support module: C:/Program Files/Unity/Hub/Editor/2020.3.13f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Registered in 0.002315 seconds.
+Native extension for WindowsStandalone target not found
+Native extension for OSXStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 634.12 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  2.586 seconds
+Platform modules already initialized, skipping
+Registering precompiled user dll's ...
+Registered in 0.003409 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for OSXStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 1763.43 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  2.962 seconds
+Platform modules already initialized, skipping
+========================================================================
+Worker process is ready to serve import requests
+Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
+Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.04 seconds
+Refreshing native plugins compatible for Editor in 0.81 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2696 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 121.1 MB.
+System memory in use after: 118.3 MB.
+
+Unloading 54 unused Assets to reduce memory usage. Loaded Objects now: 3093.
+Total: 4.193400 ms (FindLiveObjects: 0.368000 ms CreateObjectMapping: 0.237300 ms MarkObjects: 2.241200 ms  DeleteObjects: 1.345500 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Import Request.
+  path: Assets/Readme.asset
+  artifactKey: Guid(83c2ed844a8c74b779a4c823d16594b1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Readme.asset using Guid(83c2ed844a8c74b779a4c823d16594b1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8ffd2c44ffeb50c574abb5d0c4453328') in 0.069938 seconds 
+  Import took 0.074192 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 787.647181 seconds.
+  path: Assets/Scenes
+  artifactKey: Guid(dfaf88449b79edb47ae7c21dc7784916) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes using Guid(dfaf88449b79edb47ae7c21dc7784916) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '54510cc80a486e203081785c71017879') in 0.016041 seconds 
+  Import took 0.020029 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 7.151256 seconds.
+  path: Assets/Scenes/SpatialScene.unity
+  artifactKey: Guid(438475c9d3826e445a802193e34d5ae2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/SpatialScene.unity using Guid(438475c9d3826e445a802193e34d5ae2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '282fc475f8984fd51d2eaf4fb5ec4685') in 0.014154 seconds 
+  Import took 0.017758 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 9.359903 seconds.
+  path: Assets/Prefabs
+  artifactKey: Guid(e1f564d397b1ccc4a8b348de4acc4e93) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs using Guid(e1f564d397b1ccc4a8b348de4acc4e93) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f3bae9ee4787704c879b4df4e25b7f12') in 0.014648 seconds 
+  Import took 0.019633 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 19.858175 seconds.
+  path: Assets/Prefabs/vr-lobby-baked-max-scene
+  artifactKey: Guid(15badab70320c3449bd563b732803989) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/vr-lobby-baked-max-scene using Guid(15badab70320c3449bd563b732803989) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2cbe9d733fea7b6db3d8afe0bb25defe') in 0.012789 seconds 
+  Import took 0.015913 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 9.685963 seconds.
+  path: Assets/Prefabs/vr-lobby-baked-max-scene/source
+  artifactKey: Guid(d95a0a99e1c933e478a7f9c304407a83) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/vr-lobby-baked-max-scene/source using Guid(d95a0a99e1c933e478a7f9c304407a83) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '73a84ebadda5bd4edc1bed26ba29fec5') in 0.204970 seconds 
+  Import took 0.209739 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.789120 seconds.
+  path: Assets/Prefabs/vr-lobby-baked-max-scene/source/VR Lobby.zip
+  artifactKey: Guid(70ac011f6048a854792316d62ada8fbf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/vr-lobby-baked-max-scene/source/VR Lobby.zip using Guid(70ac011f6048a854792316d62ada8fbf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '297491bb3bfa30c11dd025e8c6de7fc7') in 1.518840 seconds 
+  Import took 1.522137 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 47.668400 seconds.
+  path: Assets/Prefabs/vr-lobby-baked-max-scene/source/VR Lobby
+  artifactKey: Guid(d5d7772431a7b4243bba39028258f65e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/vr-lobby-baked-max-scene/source/VR Lobby using Guid(d5d7772431a7b4243bba39028258f65e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e96a4bf96c38906c2323c0039ab3b481') in 0.015821 seconds 
+  Import took 0.019151 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.079386 seconds.
+  path: Assets/Prefabs/vr-lobby-baked-max-scene/source/VR Lobby/walls.jpg
+  artifactKey: Guid(4f0e5bef13006694ebc388a84de40ed1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/vr-lobby-baked-max-scene/source/VR Lobby/walls.jpg using Guid(4f0e5bef13006694ebc388a84de40ed1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0453995517618b568b3f6c5ac808e69f') in 2.094697 seconds 
+  Import took 2.098356 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000237 seconds.
+  path: Assets/Prefabs/vr-lobby-baked-max-scene/source/VR Lobby/floor.jpg
+  artifactKey: Guid(18d77708da45d314f80f6198f8d65181) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/vr-lobby-baked-max-scene/source/VR Lobby/floor.jpg using Guid(18d77708da45d314f80f6198f8d65181) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ff7e03542996fba6804a982076a5a1ca') in 0.029551 seconds 
+  Import took 0.032441 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000182 seconds.
+  path: Assets/Prefabs/vr-lobby-baked-max-scene/source/VR Lobby/textbox.fbx
+  artifactKey: Guid(c9ceae2e8e70e1d48a70c458b6b3341d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/vr-lobby-baked-max-scene/source/VR Lobby/textbox.fbx using Guid(c9ceae2e8e70e1d48a70c458b6b3341d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '248cc5499a1564fad70cd583c2ca5f86') in 1.086256 seconds 
+  Import took 1.090386 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000113 seconds.
+  path: Assets/Prefabs/vr-lobby-baked-max-scene/source/VR Lobby/doors.jpg
+  artifactKey: Guid(c9c216240e1834849aaab4bfc0a02b17) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/vr-lobby-baked-max-scene/source/VR Lobby/doors.jpg using Guid(c9c216240e1834849aaab4bfc0a02b17) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7c1d9810600ec986b0a3262419ea5c77') in 0.028783 seconds 
+  Import took 0.032145 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000117 seconds.
+  path: Assets/Prefabs/vr-lobby-baked-max-scene/source/VR Lobby/furniture.jpg
+  artifactKey: Guid(36800dc90bc42b344aba35367f55364e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/vr-lobby-baked-max-scene/source/VR Lobby/furniture.jpg using Guid(36800dc90bc42b344aba35367f55364e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'daeaec5100d55870fe525f75ac5d810f') in 0.028328 seconds 
+  Import took 0.031594 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 36.377544 seconds.
+  path: Assets/Prefabs/vr-lobby-baked-max-scene/source/VR Lobby/textbox.fbx
+  artifactKey: Guid(c9ceae2e8e70e1d48a70c458b6b3341d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/vr-lobby-baked-max-scene/source/VR Lobby/textbox.fbx using Guid(c9ceae2e8e70e1d48a70c458b6b3341d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ee0094e9619d9d6ad82ec8bd92c90c86') in 2.628590 seconds 
+  Import took 2.633076 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 122.442796 seconds.
+  path: Assets/Shaders
+  artifactKey: Guid(cd4b77a45ede6114db36b764e836a599) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Shaders using Guid(cd4b77a45ede6114db36b764e836a599) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '54485872139025adbc54107c8a24d572') in 0.012736 seconds 
+  Import took 0.017237 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 20.491460 seconds.
+  path: Assets/Shaders/ReverseNormal.shadergraph
+  artifactKey: Guid(0f026d114c09dbd4396f396de01338a8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Shaders/ReverseNormal.shadergraph using Guid(0f026d114c09dbd4396f396de01338a8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a6b8f10638af411caee2affb3697c2a3') in 0.013387 seconds 
+  Import took 0.017341 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 379.286698 seconds.
+  path: Assets/Images
+  artifactKey: Guid(5329d08d096751749b0afc8ef18ca795) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Images using Guid(5329d08d096751749b0afc8ef18ca795) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e5dff195304dbd5d596d66cd29f6e5d0') in 0.013236 seconds 
+  Import took 0.018425 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 20.298875 seconds.
+  path: Assets/Images/AdobeStock_309060722.jpeg
+  artifactKey: Guid(fd6ede778694dcf4ebe9664f0dc30e74) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Images/AdobeStock_309060722.jpeg using Guid(fd6ede778694dcf4ebe9664f0dc30e74) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd443c7578bd15d5c845af3af5efe875e') in 0.052403 seconds 
+  Import took 0.057100 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1541.047552 seconds.
+  path: Assets/Materials
+  artifactKey: Guid(d0234ba368eeec9418390da711bfdad0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Materials using Guid(d0234ba368eeec9418390da711bfdad0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'dd1fccef896d48891410691dfde716e5') in 1.146237 seconds 
+  Import took 1.151905 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.002634 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for OSXStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.61 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+[ScriptCompilation] NOT recompiling all scripts because this is an import worker process. Reason to compile was: Define symbols changed
+Mono: successfully reloaded assembly
+- Completed reload, in  3.305 seconds
+Platform modules already initialized, skipping
+Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
+Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
+Refreshing native plugins compatible for Editor in 0.54 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2741 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 131.5 MB.
+System memory in use after: 126.8 MB.
+
+Unloading 76 unused Assets to reduce memory usage. Loaded Objects now: 3275.
+Total: 4.960900 ms (FindLiveObjects: 0.301200 ms CreateObjectMapping: 0.154500 ms MarkObjects: 2.219500 ms  DeleteObjects: 2.284900 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.002352 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for OSXStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.62 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+[ScriptCompilation] NOT recompiling all scripts because this is an import worker process. Reason to compile was: Define symbols changed
+Mono: successfully reloaded assembly
+- Completed reload, in  2.693 seconds
+Platform modules already initialized, skipping
+Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
+Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
+Refreshing native plugins compatible for Editor in 0.62 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2741 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 131.6 MB.
+System memory in use after: 126.8 MB.
+
+Unloading 76 unused Assets to reduce memory usage. Loaded Objects now: 3278.
+Total: 5.284100 ms (FindLiveObjects: 0.597100 ms CreateObjectMapping: 0.258800 ms MarkObjects: 2.396500 ms  DeleteObjects: 2.030100 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Import Request.
+  Time since last request: 1108.170141 seconds.
+  path: Assets/Prefabs/Contemporary Art/Prefabs/Painting_Jami_59x90_1.prefab
+  artifactKey: Guid(739b249c3e0730742aa6b649aac79b0a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Contemporary Art/Prefabs/Painting_Jami_59x90_1.prefab using Guid(739b249c3e0730742aa6b649aac79b0a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '608e1cc4d1a262e0a0da3be8b32d3756') in 0.262856 seconds 
+  Import took 0.270331 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 2.207153 seconds.
+  path: Assets/Prefabs/Contemporary Art/Prefabs/Painting_Jami_100x100.prefab
+  artifactKey: Guid(015dacae7f375ca479e991d10f0efca4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Contemporary Art/Prefabs/Painting_Jami_100x100.prefab using Guid(015dacae7f375ca479e991d10f0efca4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a5cb35182a02f202970580f6c9213acf') in 0.099169 seconds 
+  Import took 0.103560 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 93.675564 seconds.
+  path: Assets/Prefabs/Contemporary Art/Prefabs/Painting_Jami_160x100.prefab
+  artifactKey: Guid(bc33ccdaaceda3e498c2b735f860b98b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Contemporary Art/Prefabs/Painting_Jami_160x100.prefab using Guid(bc33ccdaaceda3e498c2b735f860b98b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '65bb56baa5c6150f73c8ad78b0cfe2b4') in 0.104791 seconds 
+  Import took 0.111187 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 42.472545 seconds.
+  path: Assets/Prefabs/Contemporary Art/Prefabs/Paintings_Jami_All.prefab
+  artifactKey: Guid(8c59690800479524ab8c6bc02b1ddd0f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Contemporary Art/Prefabs/Paintings_Jami_All.prefab using Guid(8c59690800479524ab8c6bc02b1ddd0f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9564c9b110ffba8a36cee7853fd8357f') in 0.597051 seconds 
+  Import took 0.625233 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 7.040302 seconds.
+  path: Assets/Prefabs/Contemporary Art/Prefabs/Painting_Jami_140x140.prefab
+  artifactKey: Guid(09ae007edc4a2a04b943291d4da6cd0d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Contemporary Art/Prefabs/Painting_Jami_140x140.prefab using Guid(09ae007edc4a2a04b943291d4da6cd0d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '91f49d727a6009f3bdd44c890ec77e5b') in 0.074234 seconds 
+  Import took 0.081621 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1535.556268 seconds.
+  path: Assets/Prefabs/Toon Nature Assets/Prefabs/Background/Mountain_1D.prefab
+  artifactKey: Guid(c4fa784fc32238e4b94911f6f759a5a4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Toon Nature Assets/Prefabs/Background/Mountain_1D.prefab using Guid(c4fa784fc32238e4b94911f6f759a5a4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0a033cd2bbcf0d903e7590d0cf80d886') in 1.814100 seconds 
+  Import took 1.820183 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.012700 seconds.
+  path: Assets/Prefabs/Toon Nature Assets/Prefabs/Background/Mountain_1B.prefab
+  artifactKey: Guid(d8bbf5dcc01ec8f4f9e53c347cafb457) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Toon Nature Assets/Prefabs/Background/Mountain_1B.prefab using Guid(d8bbf5dcc01ec8f4f9e53c347cafb457) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '197896fcec2395b603cba6358c1db0f2') in 0.037961 seconds 
+  Import took 0.046065 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.003974 seconds.
+  path: Assets/Prefabs/Toon Nature Assets/Prefabs/Background/Hills_1C.prefab
+  artifactKey: Guid(4de8bb3bde8b2224fadb225165d05820) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Toon Nature Assets/Prefabs/Background/Hills_1C.prefab using Guid(4de8bb3bde8b2224fadb225165d05820) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3f82670fe4c91c09e72bf59c016553a8') in 0.038611 seconds 
+  Import took 0.043221 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 2.322247 seconds.
+  path: Assets/Prefabs/Toon Nature Assets/Prefabs/Roads/Stoplight_5B.prefab
+  artifactKey: Guid(3fbe0f7f3cb33824aa11fcb8f0b4407d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Toon Nature Assets/Prefabs/Roads/Stoplight_5B.prefab using Guid(3fbe0f7f3cb33824aa11fcb8f0b4407d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ab18a9a475007305cb852ff64097e1c3') in 0.056944 seconds 
+  Import took 0.062634 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.537879 seconds.
+  path: Assets/Prefabs/Toon Nature Assets/Prefabs/Roads/Streetlight_5C.prefab
+  artifactKey: Guid(689997f361d007f4389f53b5ab61cb16) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Toon Nature Assets/Prefabs/Roads/Streetlight_5C.prefab using Guid(689997f361d007f4389f53b5ab61cb16) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ae0b68809ad665a61fdf8cb73a87f507') in 0.034732 seconds 
+  Import took 0.039487 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 10.592188 seconds.
+  path: Assets/Prefabs/Toon Nature Assets/Documentation/URP_Instructions.txt
+  artifactKey: Guid(27414405011b76c4ba400b5e11df6eb9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Toon Nature Assets/Documentation/URP_Instructions.txt using Guid(27414405011b76c4ba400b5e11df6eb9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fa9ceca4ebc8e0c5addc5d24b2aa15f6') in 2.079308 seconds 
+  Import took 2.083529 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 5.444208 seconds.
+  path: Assets/Prefabs/Toon Nature Assets/URP_Install_Toon Nature Assets_2019.4.unitypackage
+  artifactKey: Guid(f1d556726c7878b478fc9eab7ee99fb7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Toon Nature Assets/URP_Install_Toon Nature Assets_2019.4.unitypackage using Guid(f1d556726c7878b478fc9eab7ee99fb7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c65f7b24bfe844e5dc61a411e367d186') in 1.274191 seconds 
+  Import took 1.278351 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 136.811687 seconds.
+  path: Assets/Prefabs/Toon Nature Assets/Prefabs/Background/Mountain_3A.prefab
+  artifactKey: Guid(f950c8f18749c5848abe5432f7125a2a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Toon Nature Assets/Prefabs/Background/Mountain_3A.prefab using Guid(f950c8f18749c5848abe5432f7125a2a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '771f9a4b685547c026f17286a17e89d5') in 1.272388 seconds 
+  Import took 1.276998 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 6.595829 seconds.
+  path: Assets/Prefabs/Toon Nature Assets/Prefabs/Vegetation/Flowers/Flower_3G.prefab
+  artifactKey: Guid(dd1246c02e67e7c41a7ecdf15ed4a7bc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Toon Nature Assets/Prefabs/Vegetation/Flowers/Flower_3G.prefab using Guid(dd1246c02e67e7c41a7ecdf15ed4a7bc) Importer(815301076,1909f56bfc062723c751e8b465ee728b) Shader error in 'Universal Render Pipeline/Simple Lit': Couldn't open include file 'Packages/com.unity.render-pipelines.universal/Shaders/SimpleLitInput.hlsl'. at line 219
+
+Compiling Fragment program with _GLOSSINESS_FROM_BASE_ALPHA
+Platform defines: UNITY_ENABLE_REFLECTION_BUFFERS UNITY_USE_DITHER_MASK_FOR_ALPHABLENDED_SHADOWS UNITY_PBS_USE_BRDF1 UNITY_SPECCUBE_BOX_PROJECTION UNITY_SPECCUBE_BLENDING UNITY_ENABLE_DETAIL_NORMALMAP SHADER_API_DESKTOP UNITY_LIGHT_PROBE_PROXY_VOLUME UNITY_LIGHTMAP_RGBM_ENCODING
+Disabled keywords: DOTS_INSTANCING_ON INSTANCING_ON _ALPHATEST_ON UNITY_NO_DXT5nm UNITY_ENABLE_NATIVE_SHADOW_LOOKUPS UNITY_METAL_SHADOWS_USE_POINT_FILTERING UNITY_NO_SCREENSPACE_SHADOWS UNITY_PBS_USE_BRDF2 UNITY_PBS_USE_BRDF3 UNITY_NO_FULL_STANDARD_SHADER UNITY_HARDWARE_TIER1 UNITY_HARDWARE_TIER2 UNITY_HARDWARE_TIER3 UNITY_COLORSPACE_GAMMA UNITY_HALF_PRECISION_FRAGMENT_SHADER_REGISTERS UNITY_LIGHTMAP_DLDR_ENCODING UNITY_LIGHTMAP_FULL_HDR UNITY_VIRTUAL_TEXTURING UNITY_PRETRANSFORM_TO_DISPLAY_ORIENTATION UNITY_ASTC_NORMALMAP_ENCODING SHADER_API_GLES30
+
+Shader error in 'Universal Render Pipeline/Simple Lit': Couldn't open include file 'Packages/com.unity.render-pipelines.universal/Shaders/SimpleLitInput.hlsl'. at line 104
+
+Compiling Vertex program with _ADDITIONAL_LIGHTS
+Platform defines: UNITY_ENABLE_REFLECTION_BUFFERS UNITY_USE_DITHER_MASK_FOR_ALPHABLENDED_SHADOWS UNITY_PBS_USE_BRDF1 UNITY_SPECCUBE_BOX_PROJECTION UNITY_SPECCUBE_BLENDING UNITY_ENABLE_DETAIL_NORMALMAP SHADER_API_DESKTOP UNITY_LIGHT_PROBE_PROXY_VOLUME UNITY_LIGHTMAP_RGBM_ENCODING
+Disabled keywords: _MAIN_LIGHT_SHADOWS _MAIN_LIGHT_SHADOWS_CASCADE _ADDITIONAL_LIGHTS_VERTEX LIGHTMAP_SHADOW_MIXING SHADOWS_SHADOWMASK DIRLIGHTMAP_COMBINED LIGHTMAP_ON DOTS_INSTANCING_ON FOG_LINEAR FOG_EXP FOG_EXP2 INSTANCING_ON _NORMALMAP _RECEIVE_SHADOWS_OFF UNITY_NO_DXT5nm UNITY_ENABLE_NATIVE_SHADOW_LOOKUPS UNITY_METAL_SHADOWS_USE_POINT_FILTERING UNITY_NO_SCREENSPACE_SHADOWS UNITY_PBS_USE_BRDF2 UNITY_PBS_USE_BRDF3 UNITY_NO_FULL_STANDARD_SHADER UNITY_HARDWARE_TIER1 UNITY_HARDWARE_TIER2 UNITY_HARDWARE_TIER3 UNITY_COLORSPACE_GAMMA UNITY_HALF_PRECISION_FRAGMENT_SHADER_REGISTERS UNITY_LIGHTMAP_DLDR_ENCODING UNITY_LIGHTMAP_FULL_HDR UNITY_VIRTUAL_TEXTURING UNITY_PRETRANSFORM_TO_DISPLAY_ORIENTATION UNITY_ASTC_NORMALMAP_ENCODING SHADER_API_GLES30
+
+Shader error in 'Universal Render Pipeline/Simple Lit': Couldn't open include file 'Packages/com.unity.render-pipelines.universal/Shaders/SimpleLitInput.hlsl'. at line 219
+
+Compiling Fragment program with _GLOSSINESS_FROM_BASE_ALPHA
+Platform defines: UNITY_ENABLE_REFLECTION_BUFFERS UNITY_USE_DITHER_MASK_FOR_ALPHABLENDED_SHADOWS UNITY_PBS_USE_BRDF1 UNITY_SPECCUBE_BOX_PROJECTION UNITY_SPECCUBE_BLENDING UNITY_ENABLE_DETAIL_NORMALMAP SHADER_API_DESKTOP UNITY_LIGHT_PROBE_PROXY_VOLUME UNITY_LIGHTMAP_RGBM_ENCODING
+Disabled keywords: DOTS_INSTANCING_ON INSTANCING_ON _ALPHATEST_ON UNITY_NO_DXT5nm UNITY_ENABLE_NATIVE_SHADOW_LOOKUPS UNITY_METAL_SHADOWS_USE_POINT_FILTERING UNITY_NO_SCREENSPACE_SHADOWS UNITY_PBS_USE_BRDF2 UNITY_PBS_USE_BRDF3 UNITY_NO_FULL_STANDARD_SHADER UNITY_HARDWARE_TIER1 UNITY_HARDWARE_TIER2 UNITY_HARDWARE_TIER3 UNITY_COLORSPACE_GAMMA UNITY_HALF_PRECISION_FRAGMENT_SHADER_REGISTERS UNITY_LIGHTMAP_DLDR_ENCODING UNITY_LIGHTMAP_FULL_HDR UNITY_VIRTUAL_TEXTURING UNITY_PRETRANSFORM_TO_DISPLAY_ORIENTATION UNITY_ASTC_NORMALMAP_ENCODING SHADER_API_GLES30
+
+Shader error in 'Universal Render Pipeline/Simple Lit': Couldn't open include file 'Packages/com.unity.render-pipelines.universal/Shaders/SimpleLitInput.hlsl'. at line 104
+
+Compiling Vertex program with _ADDITIONAL_LIGHTS
+Platform defines: UNITY_ENABLE_REFLECTION_BUFFERS UNITY_USE_DITHER_MASK_FOR_ALPHABLENDED_SHADOWS UNITY_PBS_USE_BRDF1 UNITY_SPECCUBE_BOX_PROJECTION UNITY_SPECCUBE_BLENDING UNITY_ENABLE_DETAIL_NORMALMAP SHADER_API_DESKTOP UNITY_LIGHT_PROBE_PROXY_VOLUME UNITY_LIGHTMAP_RGBM_ENCODING
+Disabled keywords: _MAIN_LIGHT_SHADOWS _MAIN_LIGHT_SHADOWS_CASCADE _ADDITIONAL_LIGHTS_VERTEX LIGHTMAP_SHADOW_MIXING SHADOWS_SHADOWMASK DIRLIGHTMAP_COMBINED LIGHTMAP_ON DOTS_INSTANCING_ON FOG_LINEAR FOG_EXP FOG_EXP2 INSTANCING_ON _NORMALMAP _RECEIVE_SHADOWS_OFF UNITY_NO_DXT5nm UNITY_ENABLE_NATIVE_SHADOW_LOOKUPS UNITY_METAL_SHADOWS_USE_POINT_FILTERING UNITY_NO_SCREENSPACE_SHADOWS UNITY_PBS_USE_BRDF2 UNITY_PBS_USE_BRDF3 UNITY_NO_FULL_STANDARD_SHADER UNITY_HARDWARE_TIER1 UNITY_HARDWARE_TIER2 UNITY_HARDWARE_TIER3 UNITY_COLORSPACE_GAMMA UNITY_HALF_PRECISION_FRAGMENT_SHADER_REGISTERS UNITY_LIGHTMAP_DLDR_ENCODING UNITY_LIGHTMAP_FULL_HDR UNITY_VIRTUAL_TEXTURING UNITY_PRETRANSFORM_TO_DISPLAY_ORIENTATION UNITY_ASTC_NORMALMAP_ENCODING SHADER_API_GLES30
+
+Shader error in 'Universal Render Pipeline/Simple Lit': Couldn't open include file 'Packages/com.unity.render-pipelines.universal/Shaders/SimpleLitInput.hlsl'. at line 219
+
+Compiling Fragment program with _GLOSSINESS_FROM_BASE_ALPHA
+Platform defines: UNITY_ENABLE_REFLECTION_BUFFERS UNITY_USE_DITHER_MASK_FOR_ALPHABLENDED_SHADOWS UNITY_PBS_USE_BRDF1 UNITY_SPECCUBE_BOX_PROJECTION UNITY_SPECCUBE_BLENDING UNITY_ENABLE_DETAIL_NORMALMAP SHADER_API_DESKTOP UNITY_LIGHT_PROBE_PROXY_VOLUME UNITY_LIGHTMAP_RGBM_ENCODING
+Disabled keywords: DOTS_INSTANCING_ON INSTANCING_ON _ALPHATEST_ON UNITY_NO_DXT5nm UNITY_ENABLE_NATIVE_SHADOW_LOOKUPS UNITY_METAL_SHADOWS_USE_POINT_FILTERING UNITY_NO_SCREENSPACE_SHADOWS UNITY_PBS_USE_BRDF2 UNITY_PBS_USE_BRDF3 UNITY_NO_FULL_STANDARD_SHADER UNITY_HARDWARE_TIER1 UNITY_HARDWARE_TIER2 UNITY_HARDWARE_TIER3 UNITY_COLORSPACE_GAMMA UNITY_HALF_PRECISION_FRAGMENT_SHADER_REGISTERS UNITY_LIGHTMAP_DLDR_ENCODING UNITY_LIGHTMAP_FULL_HDR UNITY_VIRTUAL_TEXTURING UNITY_PRETRANSFORM_TO_DISPLAY_ORIENTATION UNITY_ASTC_NORMALMAP_ENCODING SHADER_API_GLES30
+
+ -> (artifact id: '5167e4158e6ff439563553580bd96905') in 0.150404 seconds 
+  Import took 0.155297 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 2.548680 seconds.
+  path: Assets/Prefabs/Toon Nature Assets/Prefabs/Vegetation/Flowers/Flower_3I.prefab
+  artifactKey: Guid(938d2d17f90ae5c449523f048a7c9f10) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Toon Nature Assets/Prefabs/Vegetation/Flowers/Flower_3I.prefab using Guid(938d2d17f90ae5c449523f048a7c9f10) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5ad2ab8268247663ead222c39c34ef3f') in 0.793959 seconds 
+  Import took 0.798854 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.783356 seconds.
+  path: Assets/Prefabs/Toon Nature Assets/Prefabs/Vegetation/Flowers/Flower_3J.prefab
+  artifactKey: Guid(3e79980a80867e34db4d5f157e3d2b92) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Toon Nature Assets/Prefabs/Vegetation/Flowers/Flower_3J.prefab using Guid(3e79980a80867e34db4d5f157e3d2b92) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f033af22c90254a7eb4ad819267d01c3') in 0.045263 seconds 
+  Import took 0.049854 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.877321 seconds.
+  path: Assets/Prefabs/Toon Nature Assets/Prefabs/Vegetation/Plants/Water_Plant_1A.prefab
+  artifactKey: Guid(04178f13440d59f4291cd775d9f89af3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Toon Nature Assets/Prefabs/Vegetation/Plants/Water_Plant_1A.prefab using Guid(04178f13440d59f4291cd775d9f89af3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a2055ba3f5d036a0b7f8ea11ddec3576') in 0.651058 seconds 
+  Import took 0.656178 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.066639 seconds.
+  path: Assets/Prefabs/Toon Nature Assets/Prefabs/Vegetation/Plants/Water_Plant_1C.prefab
+  artifactKey: Guid(f517e0ad997f1b24ba43c1fae836e896) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Toon Nature Assets/Prefabs/Vegetation/Plants/Water_Plant_1C.prefab using Guid(f517e0ad997f1b24ba43c1fae836e896) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '28238dd9c0ef62076b3902285317ab6b') in 0.079017 seconds 
+  Import took 0.083715 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.420162 seconds.
+  path: Assets/Prefabs/Toon Nature Assets/Prefabs/Vegetation/Plants/Reed_1B.prefab
+  artifactKey: Guid(329c3ddb4c976104ea791aaf8391ee18) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Toon Nature Assets/Prefabs/Vegetation/Plants/Reed_1B.prefab using Guid(329c3ddb4c976104ea791aaf8391ee18) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b42a3a807269068491067c404abea1dc') in 0.036044 seconds 
+  Import took 0.040729 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.745919 seconds.
+  path: Assets/Prefabs/Toon Nature Assets/Prefabs/Vegetation/Plants/Fern_3B.prefab
+  artifactKey: Guid(fd9765cf45b8ba14780bf96c8764bbf0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Toon Nature Assets/Prefabs/Vegetation/Plants/Fern_3B.prefab using Guid(fd9765cf45b8ba14780bf96c8764bbf0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1b2b26881f4778713dbb19b2f0d8e853') in 2.017860 seconds 
+  Import took 2.022403 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 21.634663 seconds.
+  path: Assets/Prefabs/Toon Nature Assets/Prefabs/Vegetation/Plants/Water_Plant_2B.prefab
+  artifactKey: Guid(deec41fb6610e2b46981fa6bbbd2cee5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Toon Nature Assets/Prefabs/Vegetation/Plants/Water_Plant_2B.prefab using Guid(deec41fb6610e2b46981fa6bbbd2cee5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e7de24540f61412a3d967660e5df42d4') in 1.874261 seconds 
+  Import took 1.879133 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 120.531328 seconds.
+  path: Assets/Prefabs/Toon Nature Assets/Prefabs/Vegetation/Plants/Reed_1D.prefab
+  artifactKey: Guid(35e8999c8a5075844970fd3b8cc85130) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Toon Nature Assets/Prefabs/Vegetation/Plants/Reed_1D.prefab using Guid(35e8999c8a5075844970fd3b8cc85130) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2052c515339095f0bf48a534966d9458') in 2.002664 seconds 
+  Import took 2.008106 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 41.276295 seconds.
+  path: Assets/Prefabs/Toon Nature Assets/Prefabs/Vegetation/Trees/Tree_Fallen_1B.prefab
+  artifactKey: Guid(3f5fddbeaeac93f42bf2906df8189fb6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Toon Nature Assets/Prefabs/Vegetation/Trees/Tree_Fallen_1B.prefab using Guid(3f5fddbeaeac93f42bf2906df8189fb6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7158c724da9a8a2ef4094703852c7d80') in 0.038251 seconds 
+  Import took 0.043072 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 7.433362 seconds.
+  path: Assets/Prefabs/Toon Nature Assets/Prefabs/Vegetation/Trees/Tree_Trunk_1B.prefab
+  artifactKey: Guid(112c52b9bb2f012489dfd34121ee4c00) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Toon Nature Assets/Prefabs/Vegetation/Trees/Tree_Trunk_1B.prefab using Guid(112c52b9bb2f012489dfd34121ee4c00) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '34f9a06424af5eb8deaeddbdbd88c14f') in 1.685116 seconds 
+  Import took 1.690052 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 20.222473 seconds.
+  path: Assets/Prefabs/Toon Nature Assets/Prefabs/Vegetation/Trees/Tree_Trunk_2B.prefab
+  artifactKey: Guid(d977d9f6da0a1b14e8fb91f2969d5006) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Toon Nature Assets/Prefabs/Vegetation/Trees/Tree_Trunk_2B.prefab using Guid(d977d9f6da0a1b14e8fb91f2969d5006) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3ea276ddae43c8975a2810ec99a91f83') in 0.038314 seconds 
+  Import took 0.043143 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 34.987042 seconds.
+  path: Assets/Prefabs/Toon Nature Assets/Prefabs/Vegetation/Trees/Pine_Tree_2C.prefab
+  artifactKey: Guid(a72068b6a1abc7f459f81165d0b4e156) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Toon Nature Assets/Prefabs/Vegetation/Trees/Pine_Tree_2C.prefab using Guid(a72068b6a1abc7f459f81165d0b4e156) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '042d06a760ae51add2743b1e9dea41b6') in 1.900254 seconds 
+  Import took 1.905199 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 37.782320 seconds.
+  path: Assets/Prefabs/Toon Nature Assets/Prefabs/Vegetation/Trees/Forest_Tree_6C.prefab
+  artifactKey: Guid(21e7b4ed894c0ce4e899150428f79468) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Toon Nature Assets/Prefabs/Vegetation/Trees/Forest_Tree_6C.prefab using Guid(21e7b4ed894c0ce4e899150428f79468) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7597eee1cb61dd184b20c74c33f69964') in 0.040794 seconds 
+  Import took 0.045901 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 11.256186 seconds.
+  path: Assets/Prefabs/Toon Nature Assets/Prefabs/Vegetation/Trees/Forest_Tree_5A.prefab
+  artifactKey: Guid(618a5a5e388a7a34a804d4a6414187c5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Toon Nature Assets/Prefabs/Vegetation/Trees/Forest_Tree_5A.prefab using Guid(618a5a5e388a7a34a804d4a6414187c5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'aa32fd74c464aff819d39daaa4961543') in 1.361365 seconds 
+  Import took 1.367260 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 41.590128 seconds.
+  path: Assets/Prefabs/Toon Nature Assets/Prefabs/Vegetation/Trees/Forest_Tree_6B.prefab
+  artifactKey: Guid(0e436747c1310c341a02a8d28d2a0563) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Toon Nature Assets/Prefabs/Vegetation/Trees/Forest_Tree_6B.prefab using Guid(0e436747c1310c341a02a8d28d2a0563) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8d6efce246ca41d4d3cb6a5640d81641') in 2.033263 seconds 
+  Import took 2.038676 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 4.314219 seconds.
+  path: Assets/Prefabs/Toon Nature Assets/Prefabs/Vegetation/Trees/Forest_Tree_4E.prefab
+  artifactKey: Guid(7d229197dca2834479a7234be9df6dbd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Toon Nature Assets/Prefabs/Vegetation/Trees/Forest_Tree_4E.prefab using Guid(7d229197dca2834479a7234be9df6dbd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '07bebdf1a3c9f02618d4f9a0b08facfd') in 0.040624 seconds 
+  Import took 0.045169 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 57.824461 seconds.
+  path: Assets/Prefabs/Toon Nature Assets/Prefabs/Rocks/Rock_Cluster_3B.prefab
+  artifactKey: Guid(36e6719885d6d3e48b5e7dc5c437ed1d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Toon Nature Assets/Prefabs/Rocks/Rock_Cluster_3B.prefab using Guid(36e6719885d6d3e48b5e7dc5c437ed1d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a2348e775798d6c72fb1b4560af76aec') in 1.645319 seconds 
+  Import took 1.651092 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 66.286826 seconds.
+  path: Assets/Prefabs/Toon Nature Assets/Prefabs/Props/Wood_Stack_1B.prefab
+  artifactKey: Guid(326dbe48e80be0543b41a20a4b90a988) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Toon Nature Assets/Prefabs/Props/Wood_Stack_1B.prefab using Guid(326dbe48e80be0543b41a20a4b90a988) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'db27512d5c86de06b19b05cfc2260223') in 0.955382 seconds 
+  Import took 0.959747 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 14.129337 seconds.
+  path: Assets/Prefabs/Toon Nature Assets/Prefabs/Props/Wood_Stack_1D.prefab
+  artifactKey: Guid(d5e3e29ab9a84a347878ce2648dd404e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Toon Nature Assets/Prefabs/Props/Wood_Stack_1D.prefab using Guid(d5e3e29ab9a84a347878ce2648dd404e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '352af69b4fb5c3493d17d0476b1f59a1') in 0.032075 seconds 
+  Import took 0.036437 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 147.628042 seconds.
+  path: Assets/Prefabs/persian-rug
+  artifactKey: Guid(181cf26ff05208f4ab50c12919229c61) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/persian-rug using Guid(181cf26ff05208f4ab50c12919229c61) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ac62932c143a6c8b45e9f2f02c89b489') in 0.015714 seconds 
+  Import took 0.020621 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.738751 seconds.
+  path: Assets/Prefabs/persian-rug/source
+  artifactKey: Guid(e19e4eaf90bbe7a4699a485e7d13c653) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/persian-rug/source using Guid(e19e4eaf90bbe7a4699a485e7d13c653) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '80a293e5c36c8434af1eb05d2ae4362d') in 0.018165 seconds 
+  Import took 0.022235 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.774990 seconds.
+  path: Assets/Prefabs/persian-rug/source/rug01_MDL_nar.fbx.fbx
+  artifactKey: Guid(fddc9844a7963384daab0158362e4064) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/persian-rug/source/rug01_MDL_nar.fbx.fbx using Guid(fddc9844a7963384daab0158362e4064) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fe5376e0d814cc6e7b9b8e414fa1fdba') in 1.374122 seconds 
+  Import took 1.379450 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 7.043079 seconds.
+  path: Assets/Prefabs/persian-rug/source/rug01_MDL_nar.fbx.fbx
+  artifactKey: Guid(fddc9844a7963384daab0158362e4064) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/persian-rug/source/rug01_MDL_nar.fbx.fbx using Guid(fddc9844a7963384daab0158362e4064) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0181b6104ceaf1339a6eb79515f32134') in 0.032645 seconds 
+  Import took 0.036682 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 202.956234 seconds.
+  path: Assets/Prefabs/Toon Nature Assets/Prefabs/Vegetation/Trees/Forest_Tree_1C.prefab
+  artifactKey: Guid(364d4b5fe10234d45a1cd6c073773e0e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Toon Nature Assets/Prefabs/Vegetation/Trees/Forest_Tree_1C.prefab using Guid(364d4b5fe10234d45a1cd6c073773e0e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '07e059f036464db0da76783cd9ad3618') in 1.608691 seconds 
+  Import took 1.614196 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 8.578214 seconds.
+  path: Assets/Prefabs/Toon Nature Assets/Prefabs/Vegetation/Trees/Forest_Tree_2B.prefab
+  artifactKey: Guid(46ba72c3c4082cc4f988ba7e8ced5a30) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Toon Nature Assets/Prefabs/Vegetation/Trees/Forest_Tree_2B.prefab using Guid(46ba72c3c4082cc4f988ba7e8ced5a30) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd64fbd00177df9212e366dfbff1558ef') in 1.527692 seconds 
+  Import took 1.532009 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 44.190868 seconds.
+  path: Assets/Prefabs/Toon Nature Assets/Prefabs/Vegetation/Trees/Dry_Tree_2A.prefab
+  artifactKey: Guid(d8d30280519ed464b984f25736193e44) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Toon Nature Assets/Prefabs/Vegetation/Trees/Dry_Tree_2A.prefab using Guid(d8d30280519ed464b984f25736193e44) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e4a70a09bdcfa1cff06a2a918f5919d4') in 0.040904 seconds 
+  Import took 0.045309 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 7.883897 seconds.
+  path: Assets/Prefabs/Toon Nature Assets/Prefabs/Vegetation/Trees/Forest_Tree_6A.prefab
+  artifactKey: Guid(dd993c53a2e0c95499c53fe537b83ac8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Toon Nature Assets/Prefabs/Vegetation/Trees/Forest_Tree_6A.prefab using Guid(dd993c53a2e0c95499c53fe537b83ac8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '718cb77aee8c6c2e24652b931083a54b') in 1.581544 seconds 
+  Import took 1.586165 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.652566 seconds.
+  path: Assets/Prefabs/Toon Nature Assets/Prefabs/Vegetation/Trees/Dry_Tree_2C.prefab
+  artifactKey: Guid(72b6b2bdc18a1994e995ee439c1aa113) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Toon Nature Assets/Prefabs/Vegetation/Trees/Dry_Tree_2C.prefab using Guid(72b6b2bdc18a1994e995ee439c1aa113) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3f40209dd5437a346694f2dc21be5353') in 0.040324 seconds 
+  Import took 0.044530 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 17.596217 seconds.
+  path: Assets/Prefabs/Toon Nature Assets/Prefabs/Vegetation/Trees/Forest_Tree_2D.prefab
+  artifactKey: Guid(cb56338d7cde4734198c8ecbd035b995) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Toon Nature Assets/Prefabs/Vegetation/Trees/Forest_Tree_2D.prefab using Guid(cb56338d7cde4734198c8ecbd035b995) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '90db76aa244ca9df9d1eef519e1b48be') in 1.867451 seconds 
+  Import took 1.872485 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 283.286732 seconds.
+  path: Assets/Prefabs/Toon Nature Assets/Prefabs/Rocks/Cliff_Vertical_4B.prefab
+  artifactKey: Guid(a01349c1ee176b1418f8f1a313db5d50) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Toon Nature Assets/Prefabs/Rocks/Cliff_Vertical_4B.prefab using Guid(a01349c1ee176b1418f8f1a313db5d50) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '95fcfb19488717ceb099254616f2a5bc') in 0.039004 seconds 
+  Import took 0.044676 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 508.198418 seconds.
+  path: Assets/Prefabs/Toon Nature Assets/Prefabs/Roads/Streetlight_5B.prefab
+  artifactKey: Guid(1847007aa8d79234d8a6363f94bc0054) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Toon Nature Assets/Prefabs/Roads/Streetlight_5B.prefab using Guid(1847007aa8d79234d8a6363f94bc0054) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd50e93590d1a77e4c7a5943a7eae639f') in 0.046334 seconds 
+  Import took 0.052345 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 163.553646 seconds.
+  path: Assets/Prefabs/Toon Nature Assets/Prefabs/Roads/Country_Road_1G.prefab
+  artifactKey: Guid(39e5dfc36c91b9e4e9c33f9b70763a74) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Toon Nature Assets/Prefabs/Roads/Country_Road_1G.prefab using Guid(39e5dfc36c91b9e4e9c33f9b70763a74) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e0e6e73199b970d5bbe0194229701484') in 0.771592 seconds 
+  Import took 0.777209 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 108.293269 seconds.
+  path: Assets/Prefabs/Toon Nature Assets/Prefabs/Roads/Streetsign_4A.prefab
+  artifactKey: Guid(c7b6d709e64abd044b9a5622d553d27f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Toon Nature Assets/Prefabs/Roads/Streetsign_4A.prefab using Guid(c7b6d709e64abd044b9a5622d553d27f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8af4520a1ec39d56001e06ad6d08e42d') in 0.036586 seconds 
+  Import took 0.041349 seconds .
+
+AssetImportWorkerClient::OnTransportError - code=2 error=End of file
