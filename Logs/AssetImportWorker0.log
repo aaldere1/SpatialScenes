@@ -402,3 +402,11 @@ Received Import Request.
 Start importing Assets/FBXExports/Lobby.fbx using Guid(37d705dec00644f40b1579026de9512f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c45b837202d7143940e9d6bf8bfe121c') in 2.777875 seconds 
   Import took 2.795844 seconds .
 
+========================================================================
+Received Import Request.
+  Time since last request: 657.914059 seconds.
+  path: Assets/Screenshots
+  artifactKey: Guid(2e4d72f99d8e4c24ca627845ad0007b0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Screenshots using Guid(2e4d72f99d8e4c24ca627845ad0007b0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8d8e8e6ff36eeba91d3ce6f15a59ad85') in 0.015976 seconds 
+  Import took 0.022457 seconds .
+
